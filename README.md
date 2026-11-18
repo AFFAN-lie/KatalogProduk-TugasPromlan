@@ -22,6 +22,7 @@ Aplikasi desktop berbasis antarmuka grafis (GUI) untuk mengelola data katalog pr
 Pastikan **Java Development Kit (JDK)** sudah terinstal di perangkat Anda. Anda dapat mengeceknya melalui terminal/CMD dengan perintah:
 ```bash
 java -version
+```
 
 ## Tampilan UI
 ![Tampilan Aplikasi Katalog Produk](assets/Screenshot.png)
